@@ -40,11 +40,18 @@ The data was analyzed to answer the following questions: [Part 2](https://github
 
 The data was analyzed to answer the following questions, and a data visualization was created to support each answer:
 
-Which month, on average, has the lowest temperature? The highest?
-Which month, on average, has the lowest atmospheric pressure? The highest?
-How many terrestrial days exist in a Martian year? A visual estimate within 25% was made.
+1. Which month, on average, has the lowest temperature? The highest? Months 3 and 4 have the coldest temperatures, but month 8 has the hottest temperature.
 
-## Summary
+![Screenshot 2023-05-28 at 10 31 43 AM](https://github.com/Jall3n/Mission2Mars_Mod11/assets/119149740/f0c46d58-de8e-4978-b068-4a66a5f12eee)
+
+2. Which month, on average, has the lowest atmospheric pressure? The highest? Month 6 has the lowest pressure, and month 9 has the highest pressure.
+
+![Screenshot 2023-05-28 at 10 31 32 AM](https://github.com/Jall3n/Mission2Mars_Mod11/assets/119149740/291ab656-0893-4ea4-a574-03185151e604)
+
+3. How many terrestrial days exist in a Martian year? There are 686 days that pass on Earth for one Martian year.
+
+![Screenshot 2023-05-28 at 10 31 17 AM](https://github.com/Jall3n/Mission2Mars_Mod11/assets/119149740/07222dc7-4993-431a-82c9-ddcb2b381044)
+
 
 ## Resources
 1. https://learnpython.com/blog/python-datetime-for-beginners/#:~:text=datetime%20%E2%80%93%20combines%20date%20and%20time,between%20two%20dates%20or%20times
